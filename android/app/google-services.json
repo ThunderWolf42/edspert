@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "78344918001",
+    "project_id": "edspert-flutter",
+    "storage_bucket": "edspert-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78344918001:android:6806a3fdc94d3fbcb92a50",
+        "android_client_info": {
+          "package_name": "com.example.edspert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78344918001-7t0qv1h718ja4lep2f3ip29geem2s004.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edspert",
+            "certificate_hash": "4b7e2f25f800999988e39b3104793f257b35c1fe"
+          }
+        },
+        {
+          "client_id": "78344918001-hehlnabuavd4ti192dmv7a368sk6mfs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO5sHaVxYsTO-4DAqKmUeLRzqV_aKRDPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78344918001-hehlnabuavd4ti192dmv7a368sk6mfs8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "78344918001-345tk7hic9o05gqujs86h976mgmdaij1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edspert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
